@@ -59,16 +59,14 @@ header {
 }
 
 .menu-icon {
-    color: white;
+    color: rgba(49, 175, 87, 1);
     float: right;
     font-size: 25px;
     padding: 21px 0;
     display:none;
 }
 
-span{
-	display:none;
-}
+
 
 
 
